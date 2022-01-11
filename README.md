@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving my CSS skills**
 
-- 🌱 I’m currently learning **scss and nodejs**
+- 🌱 I’m currently learning **SCSS and Node.js**
 
 - 💬 Ask me about **web development technologies**
 
