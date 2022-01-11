@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kristian</h1>
-<h3 align="center">I am a Software Engineering student at Bournemouth University in the UK. I enjoy building programs, mostly web applications (so far). I also like spending my time on coding projects and learning about new technologies through online articles and videos.</h3>
+<h3 align="center">I am a Software Engineering student at Bournemouth University in the UK. I enjoy problem solving through building stuff like programs. I also like spending my time on coding projects and learning about new technologies through online articles and videos.</h3>
 
 - 🔭 I’m currently working on **improving my CSS skills**
 
