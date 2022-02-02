@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kristian</h1>
 <h3 align="center">I am currently a Software Engineering student at Bournemouth University in the UK.</h3>
 
-- 🔭 I’m currently working on **improving my CSS skills**
+- 🔭 I’m currently working on **improving my CSS and web design skills**
 
 - 🌱 I’m currently learning **Sass and Node.js**
 
