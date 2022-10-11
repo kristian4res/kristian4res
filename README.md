@@ -1,7 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Kristian</h1>
 <h3 align="center">I'm a Software Engineering student in the UK.</h3>
 
-- 🌱 I’m currently learning about **nodejs, docker, terraform and microservices**
+- 🌱 Technologies I’m currently learning about: **nodejs, docker, terraform, gcp**
+
+- 🌱 Topics I'm currently learning about: **microservices, infrastructure as code, cloud services, tdd and bdd**
 
 - 💬 Ask me about **web development technologies**
 
