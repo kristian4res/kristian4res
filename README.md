@@ -3,7 +3,7 @@
 
 - 🌱 Technologies I’m currently learning about: **nodejs, docker, terraform, gcp**
 
-- 🌱 Topics I'm currently learning about: **microservices, infrastructure as code, cloud services, tdd and bdd**
+- 👨‍💻 Topics I'm currently learning about: **microservices, infrastructure as code, cloud services, tdd and bdd**
 
 - 💬 Ask me about **web development technologies**
 
