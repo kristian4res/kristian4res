@@ -5,8 +5,6 @@
 
 - 👨‍💻 Topics I'm currently learning about: **microservices, infrastructure as code, cloud services, tdd and bdd**
 
-- 💬 Ask me about **web development technologies**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
