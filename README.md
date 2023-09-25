@@ -20,4 +20,4 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enigma-cloud&show_icons=true&theme=dracula&locale=en&layout=compact" alt="enigma-cloud" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristian4res&show_icons=true&theme=dracula&locale=en&layout=compact" alt="kristian4res" /></p>
