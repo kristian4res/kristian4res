@@ -1,5 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Kristian</h1>
-<h3 align="center">I'm a Software Engineering student.</h3>
 
 - 🌱 Technologies I’m currently learning about: **typescript, nodejs, nextjs, docker, terraform, concourse and gcp**
 
