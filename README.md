@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Kristian</h1>
 
-- 🌱 Technologies I’m currently learning about: **typescript, nodejs, nextjs, docker, terraform, concourse and gcp**
+- 🌱 Technologies I’m currently learning about: **typescript**
 
-- 👨‍💻 Topics I'm currently learning about: **microservices, infrastructure as code, cloud services, tdd and bdd**
+- 👨‍💻 Topics I'm currently learning about: **cloud services**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
