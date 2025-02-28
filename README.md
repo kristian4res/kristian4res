@@ -1,6 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Kristian</h1>
-A software engineer 👨‍💻 with a passion for building web applications. 
-I often spend my free time developing personal projects and staying up-to-date with the latest web technologies through online articles and videos.
+A self-motivated DevOps software engineer with experience in developing full-stack applications and maintaining a multicloud distributed system in agile multidisciplinary teams.
 
 
 <h4 align="left">Social platforms:</h4>
