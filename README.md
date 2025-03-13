@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Kristian</h1>
-A self-motivated DevOps software engineer with experience in developing full-stack applications and maintaining a multicloud distributed system in agile multidisciplinary teams.
+A self-motivated software engineer with experience in developing full-stack applications, maintaining multicloud distributed systems and applying DevSecOps principles, within agile multidisciplinary teams.
 
 
 <h4 align="left">Social platforms:</h4>
